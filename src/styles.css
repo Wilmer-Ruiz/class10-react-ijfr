@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.table, th, td{
+  background-color: skyblue;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding-left: 60px;
+  padding-right: 60px;
+  color: black;
+}
+
+h1 {
+  color: red;
+  padding-left: 60px;
+  padding-right: 500px;
+}
